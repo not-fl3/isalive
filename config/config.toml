@@ -1,0 +1,21 @@
+name = "SHAR"
+description = "Check out how lazy developers are."
+footer = "BRING A SHAR - ACHIEVE A COMMON GOAL"
+
+[[services]]
+name = "Jenkins"
+description = "Was windows client delivered?"
+group = "JENKINS"
+secret = "SECRET1"
+
+[[services]]
+name = "Gogs"
+description = "Was server actually rebuilt?"
+group = "CUSTOM"
+secret = "SECRET2"
+
+[[services]]
+name = "Assets git"
+description = "Is assets repo active?"
+group = "GIT"
+secret = "SECRET3"

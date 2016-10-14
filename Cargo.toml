@@ -1,0 +1,16 @@
+[package]
+name = "IsAlive"
+version = "0.1.0"
+authors = [""]
+
+[dependencies]
+rand="0.3.0"
+toml = "0.2"
+staticfile = "0.3.0"
+mount = "0.2.1"
+iron = "0.4.0"
+rustc-serialize = "0.3.19"
+router = "0.4.0"
+bincode = "0.6.0"
+urlencoded = "0.4.1"
+queryst = "1"

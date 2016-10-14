@@ -1,0 +1,8 @@
+web/node_modules/*
+web/elm-stuff/*
+web/gen/*
+web/elm.js
+web/main.html
+web/main.js
+Cargo.lock
+target/

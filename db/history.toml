@@ -1,0 +1,6 @@
+[[services]]
+secret = "c27fv8Rq"
+
+[[services.history]]
+status = "GOOD"
+time = 1476412978
