@@ -1,5 +1,5 @@
 [package]
-name = "IsAlive"
+name = "is_alive"
 version = "0.1.0"
 authors = [""]
 
