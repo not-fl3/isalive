@@ -100,7 +100,7 @@ impl ServicesHandler {
         use std::io::Write;
 
         let encoded = ::toml::encode_str(self);
-        let mut f =  ::std::fs::File::create("data/history.toml").unwrap();
+        let mut f =  ::std::fs::File::create("db/history.toml").unwrap();
 
         f.write_all(encoded.as_bytes()).unwrap();
     }
